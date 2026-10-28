@@ -25,10 +25,10 @@ I build and rescue production SaaS platforms with **Laravel** and **NestJS** —
 
 ## 🛠️ Tech Stack
 
-**Backend:** Laravel · NestJS · PHP · TypeScript · Node.js · FastAPI · Python
-**Frontend & Mobile:** Vue.js · Next.js · React Native
+**Backend:** Laravel · NestJS · PHP · TypeScript · Node.js · FastAPI · Python · Django
+**Frontend & Mobile:** Vue.js · Next.js · React · React Native · Flutter
 **Real-Time & Payments:** WebSockets · Stripe · Web3 / On-Chain Payments · AI Integrations
-**Data & Cloud:** MySQL · Redis · AWS · Multi-Tenant SaaS Architecture
+**Data & Cloud:** MySQL · PostgreSQL · Firebase · Redis · AWS · Multi-Tenant SaaS Architecture
 
 ## 📂 Selected Projects
 
@@ -42,7 +42,8 @@ I build and rescue production SaaS platforms with **Laravel** and **NestJS** —
 | **Brix — Construction SaaS** | SaaS platform for construction team workflows |
 | **AIWA ERP System** | ERP for finance, HR & payroll and memberships |
 | **Almaymaar** | Investment platform with investor/member and ledger admin |
-| **Ecommerce + CMS** | Custom ecommerce with full CMS admin — products, orders, pages |
+| **Ecommerce + CMS** | Custom ecommerce with full CMS admin — products, orders, pages 
+| **React Native Apps** | Cross-platform mobile apps connected to Laravel / NestJS backends and live APIs ||
 
 👉 **See the full portfolio:** https://shanAliKhos.github.io/
 

@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://shanAliKhos.github.io/"><strong>🌐 Portfolio Website</strong></a> &nbsp;·&nbsp;
   <a href="https://www.upwork.com/freelancers/~0187f89a2c82ca8e3c"><strong>Upwork Profile</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:izzuu007@gmail.com"><strong>izzuu007@gmail.com</strong></a>
+  <a href="mailto:shanalikhoso12@gmail.com"><strong>shanalikhoso12@gmail.com</strong></a>
 </p>
 
 ---
@@ -66,4 +66,4 @@ I'm open for work (30+ hrs/week, open to contract-to-hire) and usually reply wit
 
 - 🌐 Portfolio: https://shanAliKhos.github.io/
 - 💼 Upwork: https://www.upwork.com/freelancers/~0187f89a2c82ca8e3c
-- ✉️ Email: izzuu007@gmail.com
+- ✉️ Email: shanalikhoso12@gmail.com

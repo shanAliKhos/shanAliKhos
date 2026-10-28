@@ -68,3 +68,7 @@ I'm open for work (30+ hrs/week, open to contract-to-hire) and usually reply wit
 - 🌐 Portfolio: https://shanAliKhos.github.io/
 - 💼 Upwork: https://www.upwork.com/freelancers/~0187f89a2c82ca8e3c
 - ✉️ Email: shanalikhoso12@gmail.com
+- 💬 WhatsApp: https://wa.me/923053170601
+- 📞 Phone: +92 305 3170601
+- 🔗 LinkedIn: https://www.linkedin.com/in/shan-ali-741986112/
+- 📘 Facebook: https://www.facebook.com/shanalikhosobaloch/
